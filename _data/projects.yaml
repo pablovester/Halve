@@ -9,9 +9,9 @@
   image: vamos.png
   completed: true
 
-- title: Ramme Jekyll Theme
-  url: http://taylantatli.me/Ramme
-  image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
+- title: Vanilla JS Drumkit (desktop only)
+  url: https://pablovester.github.io/js-drumkit/
+  image: drumkit.png
   completed: true
 
 - title: Daisy Pelican Theme
