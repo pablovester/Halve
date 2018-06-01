@@ -8,6 +8,6 @@ I am front end devwho wants to learn as much as he can and help others to create
 
 Check out my resume in the links section and projects in the namesake section or feel free to send me a message, too. See you around!
 
-## Theme credits
+### Theme credits
 
 This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)). The author of this port is [TaylanTatli](https://github.com/TaylanTatli).
