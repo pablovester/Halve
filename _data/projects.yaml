@@ -1,17 +1,17 @@
 - title: enSueño Documental Web
   url: http://elpsicoanalisisteayudara.com/
-  image: ensueno.jpg
+  image: /images/ensueno.jpg
   description: testing testing
   completed: true
 
 - title: Vamos - Fundacion Huesped
   url: http://vamoslac.org
-  image: vamos.png
+  image: /images/vamos.png
   completed: true
 
 - title: Vanilla JS Drumkit (desktop only)
   url: https://pablovester.github.io/js-drumkit/
-  image: drumkit.png
+  image: /images/drumkit.png
   completed: true
 
 - title: Daisy Pelican Theme
